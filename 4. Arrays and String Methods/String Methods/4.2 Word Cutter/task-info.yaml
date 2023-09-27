@@ -8,7 +8,7 @@ files:
         placeholder_text: /* Code the cutInHalf method that returns the first half of
           the word input. */
         initial_state:
-          length: 78
+          length: 94
           offset: 123
         initialized_from_dependency: false
         selected: true

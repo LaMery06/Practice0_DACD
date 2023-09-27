@@ -7,8 +7,8 @@ files:
         length: 144
         placeholder_text: /* TODO */
         initial_state:
-          length: 10
-          offset: 143
+          length: 144
+          offset: 136
         initialized_from_dependency: false
         selected: true
         status: Solved

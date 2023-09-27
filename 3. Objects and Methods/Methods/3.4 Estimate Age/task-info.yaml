@@ -11,7 +11,7 @@ files:
         length: 96
         placeholder_text: /* Print <name> lived to an age of <age> */
         initial_state:
-          length: 43
+          length: 96
           offset: 359
         initialized_from_dependency: false
         selected: false

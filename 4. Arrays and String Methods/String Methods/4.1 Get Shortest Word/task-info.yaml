@@ -7,7 +7,7 @@ files:
         length: 158
         placeholder_text: /* Code a method that returns the shortest word of the two inputs*/
         initial_state:
-          length: 67
+          length: 158
           offset: 125
         initialized_from_dependency: false
         selected: true

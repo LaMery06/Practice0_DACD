@@ -7,7 +7,7 @@ files:
         length: 39
         placeholder_text: /* Add 1 to the Sheep count everytime one is created. */
         initial_state:
-          length: 56
+          length: 39
           offset: 186
         initialized_from_dependency: false
         selected: true
