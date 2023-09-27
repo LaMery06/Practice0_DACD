@@ -11,7 +11,7 @@ files:
         length: 13
         placeholder_text: /* Replace with the appropriate condition */
         initial_state:
-          length: 44
+          length: 13
           offset: 221
         initialized_from_dependency: false
         selected: false

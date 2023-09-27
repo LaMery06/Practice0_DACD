@@ -11,7 +11,7 @@ files:
         length: 3
         placeholder_text: /* Replace with an appropriate value */
         initial_state:
-          length: 39
+          length: 3
           offset: 94
         initialized_from_dependency: false
         selected: true
@@ -21,8 +21,8 @@ files:
         length: 5
         placeholder_text: /* Replace with an appropriate value */
         initial_state:
-          length: 39
-          offset: 163
+          length: 5
+          offset: 127
         initialized_from_dependency: false
         selected: true
         status: Solved
