@@ -4,6 +4,6 @@ public class AverageCalculator
 {
     public static double getAverageOf (ArrayList<Integer> numbers)
     {
-        /* TODO */
+        /* TODO average of an ArrayList*/
     }
 }

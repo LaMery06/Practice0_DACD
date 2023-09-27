@@ -4,13 +4,13 @@ files:
     visible: true
     placeholders:
       - offset: 143
-        length: 10
+        length: 33
         placeholder_text: /* TODO */
         initial_state:
           length: 10
           offset: 143
         initialized_from_dependency: false
-        selected: false
+        selected: true
         status: Unchecked
         encrypted_possible_answer: xe4F70RIBZpibNTpdPW//X1vvojSlTZEcoL09nLAqdf7ReZ563UqQVi43K8IMPWy/G5J5IcfavHQSnEr/vSCy/r/dLy/viVjbr5i0N5sPQ2Ud5FsJnyBFDCS5JFQYtGvvpUCW/BoHgXGydPtYDeeBL4w7tmucQmXZZxxaUtStTq0EVqUJwcZG5h6hcATGoCc
     encrypted_text: NYgHoNruO3t7vIi6YFhoH8OQg22cUzmYUe9oJbRusBeKVktlx8IUt4xub+3QSIlpdvxcpHcpSyL2rNrivNEPpTPPPPRbJVov1NZ9o5usfFP1LvbUXlfxsdd7BitqdKpN0hLH2BuzzklaWXcoZnemdRZB4ltAVfG1Ne6COEdIt0TF9F4IVWIFbf62Q7BRI10la4XOT/bi7G1LrS4s80tbGGyvbNEAZM7ecLJQe6G6zms=
