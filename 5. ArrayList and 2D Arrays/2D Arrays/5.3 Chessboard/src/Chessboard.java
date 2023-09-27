@@ -4,6 +4,6 @@ public class Chessboard
    {
       char[][] chessboard = new char[8][8];
 
-      /* Create and print a chessboard. */
+      //TODO chessboard
    }
 }

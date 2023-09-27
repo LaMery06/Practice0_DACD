@@ -3,8 +3,8 @@ files:
   - name: src/AverageCalculator.java
     visible: true
     placeholders:
-      - offset: 164
-        length: 115
+      - offset: 136
+        length: 144
         placeholder_text: /* TODO */
         initial_state:
           length: 10
