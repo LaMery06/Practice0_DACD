@@ -5,8 +5,9 @@ public class OddSelector
       System.out.println("These are the odd numbers from 1 to 100.");
       System.out.println("Ready?");
       //for values from 1 to 100
-      for (int value = 1; value <= 100; value++)
+      for (int value = 0; value <= 100; value += 2)
       {
+
          System.out.println(value); //print them
       }
       System.out.println("That was fast!");

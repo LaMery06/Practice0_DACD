@@ -2,9 +2,9 @@ public class SmartRoom
 {
    public static void main(String[] args)
    {
-      double temperature; //in Celsius degrees
-      double humidity; //as a percentage
-      boolean smartMode;
+      double temperature = 20; //in Celsius degrees
+      double humidity = 0.4; //as a percentage
+      boolean smartMode = true;
 
       /*
       The previous variables have been assigned hidden values here.
