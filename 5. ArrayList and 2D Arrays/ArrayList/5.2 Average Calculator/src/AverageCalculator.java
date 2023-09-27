@@ -4,6 +4,11 @@ public class AverageCalculator
 {
     public static double getAverageOf (ArrayList<Integer> numbers)
     {
-        /* TODO average of an ArrayList*/
+        double result = 0.0;
+        for (int number: numbers){
+            result += number;
+
+        }
+        return result / numbers.size();
     }
 }
