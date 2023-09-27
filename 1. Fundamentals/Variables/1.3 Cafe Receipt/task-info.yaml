@@ -11,8 +11,8 @@ files:
         length: 125
         placeholder_text: /* Declare and initialize the variables used below. */
         initial_state:
-          length: 54
-          offset: 115
+          length: 125
+          offset: 110
         initialized_from_dependency: false
         selected: true
         status: Solved
