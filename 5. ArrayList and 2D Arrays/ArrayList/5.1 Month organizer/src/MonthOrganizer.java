@@ -14,6 +14,6 @@ public class MonthOrganizer
       months.add("November");
       months.add("December");
 
-      //System.out.println(months);
+      System.out.println(months);
    }
 }
